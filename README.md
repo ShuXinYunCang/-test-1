@@ -189,7 +189,4 @@ graph TD
 
 - **GitHub Discussions**: [讨论区链接](https://github.com/your-org/shuxinyuncang/discussions)
 
-------
 
-> © 2025 数信云仓项目组 保留所有权利。
-> 本白皮书内容随项目演进持续更新。
