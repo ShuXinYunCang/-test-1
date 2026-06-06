@@ -185,8 +185,4 @@ graph TD
 
 ------
 
-## 8. 联系方式
-
-- **GitHub Discussions**: [讨论区链接](https://github.com/your-org/shuxinyuncang/discussions)
-
 
